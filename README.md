@@ -34,9 +34,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bandoafterdark/bandoafterdark/output/snake.svg" alt="Snake animation" />
-
-###
